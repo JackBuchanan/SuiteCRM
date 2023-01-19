@@ -120,7 +120,6 @@ array(
           0 =>
           array(
             'name' => 'product_image',
-            'customCode' => '{$PRODUCT_IMAGE}',
           ),
         ),
       ),
